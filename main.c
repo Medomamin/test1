@@ -5,9 +5,9 @@ void swap1(int*,int*);
 int main()
 {
   int x, y;
-  printf("Enter First number:\n");
+  //printf("Enter First number:\n");
   scanf("%d",&x);
-  printf("Enter second number:\n");
+  //printf("Enter second number:\n");
   scanf("%d",&y);
   printf("Before swapping:\n");
   printf("x = %d\ty = %d\n", x, y);
