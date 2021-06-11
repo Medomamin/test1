@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619702929 source:g:\courses\embedded systems\new folder\ass3\main.c
+	<stdio.h>
+	<stdlib.h>
+
